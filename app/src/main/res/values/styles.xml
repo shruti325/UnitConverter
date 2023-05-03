@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="KeypadTextStyle">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/color_grey</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:paddingVertical">16dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

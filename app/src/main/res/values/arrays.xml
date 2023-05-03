@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weight">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+    </string-array>
+    <string-array name="time">
+        <item>Hours</item>
+        <item>Minutes</item>
+        <item>Seconds</item>
+    </string-array>
+    <string-array name="temp">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="length">
+        <item>Inches</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+    </string-array>
+</resources>

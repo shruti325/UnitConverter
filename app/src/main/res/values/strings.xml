@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="label_time">Time</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_length">Length</string>
+    <string name="label_weight">Weight</string>
+</resources>
